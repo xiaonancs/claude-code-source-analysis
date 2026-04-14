@@ -1,4 +1,4 @@
-# 第 7 章 Prompt Cache
+# 第 8 章 Prompt Cache
 
 > 核心提要：缓存边界与成本控制
 
