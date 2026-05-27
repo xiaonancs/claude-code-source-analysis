@@ -5,6 +5,13 @@
 基于逆向还原的 `v2.1.88` 源码快照，系统级工程视角重建 Claude Code 的完整 Agent Harness 实现。
 <br>30 篇文章 / 23 个子系统 / 179 张架构图 / 26,000+ 行研究文本。
 
+## 系列研究
+
+本研究是 AI Agent / Coding Harness 源码深度研究系列的一部分，姊妹篇：
+
+- [OpenAI Codex 源码深度研究](https://github.com/xiaonancs/codex-source-analysis) — OpenAI Codex CLI + Rust workspace + TS/Python SDK 全栈（27 篇 / ~51 万字 / 149 张 Mermaid 图）
+- [Hermes Agent 深度研究](https://github.com/xiaonancs/hermes-agent-study) — Hermes Agent + 4 个同源/对比项目（OpenClaw / EvoMap / OpenHarness / JiuwenClaw），含抄袭分析（38 篇 / 32 章 / 97 张架构图）
+- [OpenClaw 源码深度研究](https://github.com/xiaonancs/openclaw-study) — 358k Stars OpenClaw v2026.4.15 源码 + 23k commits + 生态调研
 
 ## 引言
 
